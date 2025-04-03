@@ -1,0 +1,3 @@
+.env
+common_voice_processed/
+whisper-small-en/
